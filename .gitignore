@@ -2,6 +2,8 @@
 ## Code Igniter stuff
 #############
 
+user_guide_src/
+
 application/cache/*
 !application/cache/index.html
 !application/cache/.htaccess
@@ -26,3 +28,6 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+# Sublime Stuff
+*.sublime-workspace

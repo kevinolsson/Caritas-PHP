@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+            "file_exclude_patterns":
+                [
+                    // "*.gitignore",
+                    "*.gitattributes",
+                    "*.sublime-project",
+                    "*.sublime-workspace"
+                ],
+            "folder_exclude_patterns":
+                [
+                    "user_guide",
+                    "user_guide_src"
+                ]
+		}
+	]
+}
