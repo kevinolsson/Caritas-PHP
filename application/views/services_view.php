@@ -19,7 +19,7 @@ $assets = $this->config->item('assets');
 		<h3>Community-Based Rehabilitation Program</h3>
 		<div id="cbr"></div>
 		<div class="large-4 columns large-centered">
-			<p>The Centerâ€™s outreach to depressed communities within the Province of Rizal.</p>
+			<p>The Center's outreach to depressed communities within the Province of Rizal.</p>
 		</div>
 		<div class="row">
 			<div class="large-6 columns large-centered">
@@ -37,7 +37,7 @@ $assets = $this->config->item('assets');
 
 		<div class="large-7 columns large-centered">
 			<h5>Tulong Para sa Edukasyon through the CBR Program</h5>
-			<p>Centerâ€™s joint project with Assisi Foundation where the majority of the beneficiaries are children of Persons with Disability and CBR beneficiaries residing in rural areas of Rizal.</p>
+			<p>Center's joint project with Assisi Foundation where the majority of the beneficiaries are children of Persons with Disability and CBR beneficiaries residing in rural areas of Rizal.</p>
 
 
 		</div>
@@ -83,7 +83,7 @@ $assets = $this->config->item('assets');
 
 		<div class="large-7 columns large-centered">
 			<h5>Livelihood Trainings and Seminars</h5>
-			<p>TWH extends livelihood trainings and seminars to PWD and family of PWDâ€™s living in the community.</p>
+			<p>TWH extends livelihood trainings and seminars to PWD and family of PWD's living in the community.</p>
 
 
 		</div>
@@ -123,10 +123,10 @@ $assets = $this->config->item('assets');
 					<p>Â» Providing dormitory or board and lodging (affiliate homes such as Bahay Biyaya, TWH Housing II and Sta. Lucia Home). Various projects are being implemented to support this program.</p>
 				</div>
 				<div class="large-4 columns">
-					<img src="<?=$assets;?>images/services/s11.png" alt="The centerâ€™s Blessed Margareth de Castello
+					<img src="<?=$assets;?>images/services/s11.png" alt="The center's Blessed Margareth de Castello
 					provides day-time care for children of workers and employees of the center."/>
 					<h5 class="no-space">Daycare Center</h5>
-					<p>The centerâ€™s Blessed Margareth de Castello provides day-time care for children of workers and employees of the center</p>
+					<p>The center's Blessed Margareth de Castello provides day-time care for children of workers and employees of the center</p>
 				</div>
 			</div>
 		</div>
